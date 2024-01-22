@@ -1,3 +1,8 @@
 [
-    {"id":"AE","name":"Arab Emirates"}
+  {
+    "name": "Arab Emirates",
+    "code": "AE",
+    "languages": ["ara"],
+    "flag": "🇦🇪"
+  }
 ]

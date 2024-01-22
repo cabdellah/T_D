@@ -2,24 +2,15 @@
   {
     "id": "SkyNewsArabia.ae",
     "name": "Sky News Arabia",
-    "alt_names": [
-      "Sky News عربية"
-    ],
+    "alt_names": ["Sky News عربية"],
     "network": null,
     "owners": [],
-    "countries": ["AE"],
     "subdivision": null,
     "city": null,
-    "broadcast_area": [
-      "r/ARAB",
-      "r/MAGHREB"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "categories": [
-      "news"
-    ],
+    "broadcast_area": ["r/ARAB", "r/MAGHREB"],
+    "categories": ["news"],
+    "countries": ["AE"],
+    "languages": ["ara"],
     "is_nsfw": false,
     "launched": "2012-05-06",
     "closed": null,
@@ -30,23 +21,15 @@
   {
     "id": "Alarabiya.ae",
     "name": "Alarabiya",
-    "alt_names": [
-      "العربية"
-    ],
+    "alt_names": ["العربية"],
     "network": null,
     "owners": [],
-    "countries": ["AE"],
     "subdivision": null,
     "city": null,
-    "broadcast_area": [
-      "c/AE"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "categories": [
-      "news"
-    ],
+    "broadcast_area": ["c/AE"],
+    "categories": ["news"],
+    "countries": ["AE"],
+    "languages": ["ara"],
     "is_nsfw": false,
     "launched": null,
     "closed": null,

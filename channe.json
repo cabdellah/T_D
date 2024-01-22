@@ -1,0 +1,57 @@
+[
+  {
+    "id": "SkyNewsArabia.ae",
+    "name": "Sky News Arabia",
+    "alt_names": [
+      "Sky News عربية"
+    ],
+    "network": null,
+    "owners": [],
+    "countries": ["AE"],
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "r/ARAB",
+      "r/MAGHREB"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2012-05-06",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.skynewsarabia.com/",
+    "logo": "https://i.imgur.com/SvjU4h6.png"
+  },
+  {
+    "id": "Alarabiya.ae",
+    "name": "Alarabiya",
+    "alt_names": [
+      "العربية"
+    ],
+    "network": null,
+    "owners": [],
+    "countries": ["AE"],
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.alarabiya.net/",
+    "logo": "https://i.imgur.com/NXFkYFj.png"
+  }
+]
